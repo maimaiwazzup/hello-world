@@ -1,2 +1,5 @@
 # hello-world
-New learner
+
+
+Hello Human,
+I am trying to get what Github is....
